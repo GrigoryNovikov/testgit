@@ -27,3 +27,9 @@
     border-radius: 50%;
     margin: 50px;
 }
+#black {
+    width: 130px;
+    height: 130px;
+    background: black;
+    margin: 50px;
+}
