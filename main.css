@@ -8,8 +8,19 @@
 
 #second {
     width: 100px;
+<<<<<<< HEAD
 height: 100px;
+=======
+    height: 100px;
+>>>>>>> pink_circle
     background: red;
+    border-radius: 50%;
+    margin: 50px;
+}
+#pink {
+    width: 100px;
+    height: 100px;
+    background: deeppink;
     border-radius: 50%;
     margin: 50px;
 }
